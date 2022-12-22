@@ -1,0 +1,7 @@
+{
+  "name": "sensorMovement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
